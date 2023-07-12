@@ -1,10 +1,8 @@
 import React from 'react';
 import img from "../../assets/img/logo-89.png"
-import ru from "../../assets/img/RU.png"
-import us from "../../assets/img/US.png"
-import arab from "../../assets/img/arabic.png"
-import cn from "../../assets/img/CN.png"
+
 import { BiUserCircle} from "react-icons/bi";
+import {NavLink} from "react-router-dom";
 
 const Header = () => {
     return (
@@ -14,17 +12,18 @@ const Header = () => {
                     <div className="header--logo">
                        <div className="header--logo__icon">
                            <img src={img} alt=""/>
-                           <h3>Country <br/> Guide
+                           <h3>Country travel <br/> Guide
                            </h3>
                        </div>
                         <div className="header--logo__pages">
-                            <h1>Main</h1>
-                            <h1>Hotels</h1>
+                           <NavLink to="/"> <h1>Main</h1></NavLink>
+                           <NavLink to="/hotels"> <h1>Hotels</h1></NavLink>
                             <h1>Routes</h1>
                             <h1>Map</h1>
                             <h1>Contacts</h1>
                             <div className="header--logo__pages--select">
-                                <select name="language" id="1">
+                                <select name="language"  id="1">
+                                    <option value="language" >language</option>
                                     <option value="usd">English</option>
                                     <option value="ru">Русский </option>
                                     <option value="cn">`中文 </option>

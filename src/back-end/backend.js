@@ -28,6 +28,148 @@ import burana from "../assets/img/burana.png"
 import saryChelek from "../assets/img/sarychelek.png"
 import issykKol from "../assets/img/issykKol.png"
 import kelsuu from "../assets/img/kelsuu.png"
+import royal from "../assets/img/royal.png"
+import royal1 from "../assets/img/royal1.jpg"
+import royal2 from "../assets/img/royal2.jpg"
+import royal3 from "../assets/img/royal3.jpg"
+import royal4 from "../assets/img/royal4.jpg"
+import royal5 from "../assets/img/royal5.jpg"
+import royal6 from "../assets/img/royal6.jpg"
+import royal7 from "../assets/img/royal7.jpg"
+import artek from "../assets/img/artek.jpg"
+import artek1 from "../assets/img/artek1.jpg"
+import artek2 from "../assets/img/фкеул2.jpg"
+import artek3 from "../assets/img/artek3.jpg"
+import artek4 from "../assets/img/artek4.jpg"
+import artek5 from "../assets/img/artek5.jpg"
+import artek6 from "../assets/img/artek6.jpg"
+import artek7 from "../assets/img/artek7.jpg"
+import hotel from "../assets/img/hotelIK.jpg"
+import hotel1 from "../assets/img/hotelIK1.jpg"
+import hotel2 from "../assets/img/hotelIK2.jpg"
+import hotel3 from "../assets/img/hotelIK3.jpg"
+import hotel4 from "../assets/img/hotelIK4.jpg"
+import hotel5 from "../assets/img/hotelIK5.jpg"
+import hotel6 from "../assets/img/hotelIK6.jpg"
+import olimp from "../assets/img/olimp.jpg"
+import olimp1 from "../assets/img/olimp1.jpg"
+import olimp2 from "../assets/img/olimp2.jpg"
+import olimp3 from "../assets/img/olimp3.jpg"
+import olimp4 from "../assets/img/olimp4.jpg"
+import olimp5 from "../assets/img/olimp5.jpg"
+import olimp6 from "../assets/img/olimp6.jpg"
+import zaton from "../assets/img/zaton.jpg"
+import zaton1 from "../assets/img/zaton1.jpg"
+import zaton2 from "../assets/img/zaton2.jpg"
+import zaton3 from "../assets/img/zaton3.jpg"
+import zaton4 from "../assets/img/zaton4.jpg"
+import zaton5 from "../assets/img/zaton5.jpg"
+import zaton6 from "../assets/img/zaton6.jpg"
+import zeto from "../assets/img/zeto.jpg"
+import zeto1 from "../assets/img/zeto1.jpg"
+import zeto2 from "../assets/img/zeto2.jpg"
+import zeto3 from "../assets/img/zeto3.jpg"
+import zeto4 from "../assets/img/zeto4.jpg"
+import zeto5 from "../assets/img/zeto5.jpg"
+import zeto6 from "../assets/img/zeto6.jpg"
+import zeto7 from "../assets/img/zeto7.jpg"
+import myHotel from "../assets/img/myHotel.png"
+import myHotel1 from "../assets/img/myHotel1.png"
+import myHotel2 from "../assets/img/myHotel2.png"
+import myHotel3 from "../assets/img/myHotel3.png"
+import myHotel4 from "../assets/img/myHotel4.png"
+import myHotel5 from "../assets/img/myHotel5.png"
+import myHotel6 from "../assets/img/myHotel6.png"
+import myHotel7 from "../assets/img/myHotel7.png"
+import cafe from "../assets/img/78.png"
+import cafe1 from "../assets/img/781.jpg"
+import cafe2 from "../assets/img/782.jpg"
+import cafe3 from "../assets/img/783.jpg"
+import cafe4 from "../assets/img/784.jpg"
+import cafe5 from "../assets/img/785.jpg"
+import cafe6 from "../assets/img/786.jpg"
+import cafe7 from "../assets/img/787.jpg"
+import muras from "../assets/img/muras.jpg"
+import muras1 from "../assets/img/muras1.jpg"
+import muras2 from "../assets/img/muras2.jpg"
+import muras3 from "../assets/img/muras3.jpg"
+import muras4 from "../assets/img/muras4.jpg"
+import muras5 from "../assets/img/muras5.jpg"
+import muras6 from "../assets/img/muras6.jpg"
+import muras7 from "../assets/img/muras7.jpg"
+import lavitor from "../assets/img/lavitor.jpg"
+import lavitor1 from "../assets/img/lavitor1.jpg"
+import lavitor2 from "../assets/img/lavitor2.jpg"
+import lavitor3 from "../assets/img/lavitor3.jpg"
+import lavitor4 from "../assets/img/lavitor4.jpg"
+import lavitor5 from "../assets/img/lavitor5.jpg"
+import lavitor6 from "../assets/img/lavitor6.jpg"
+import golden from "../assets/img/golden.jpg"
+import sheraton from "../assets/img/sheraton.png"
+import sheraton1 from "../assets/img/sheraton1.jpg"
+import sheraton2 from "../assets/img/sheraton2.jpg"
+import sheraton3 from "../assets/img/sheraton3.jpg"
+import sheraton4 from "../assets/img/sheraton4.jpg"
+import sheraton5 from "../assets/img/sheraton5.jpg"
+import sheraton6 from "../assets/img/sheraton6.jpg"
+import sheraton7 from "../assets/img/sheraton7.jpg"
+import mar from "../assets/img/mar.jpg"
+import mar1 from "../assets/img/mar1.jpg"
+import mar2 from "../assets/img/mar2.jpg"
+import mar3 from "../assets/img/mar3.jpg"
+import mar4 from "../assets/img/mar4.jpg"
+import mar5 from "../assets/img/mar5.jpg"
+import mar6 from "../assets/img/mar6.jpg"
+import mar7 from "../assets/img/mar7.jpg"
+import lamrc from "../assets/img/lamrc.jpg"
+import futuro from "../assets/img/futuro.jpg"
+import futuro1 from "../assets/img/futuro1.jpg"
+import futuro2 from "../assets/img/futuro2.jpg"
+import futuro3 from "../assets/img/futuro3.jpg"
+import touristan from "../assets/img/touristan.jpg"
+import touristan1 from "../assets/img/touristan1.jpg"
+import spa from "../assets/img/spa.jpg"
+import spa1 from "../assets/img/spa1.jpg"
+import eva from "../assets/img/eva.jpg"
+import eva1 from "../assets/img/eva1.jpg"
+import eva2 from "../assets/img/eva2.jpg"
+import res from "../assets/img/res.jpg"
+import res1 from "../assets/img/res1.jpg"
+import res2 from "../assets/img/res2.jpg"
+import gra from "../assets/img/gra.jpg"
+import io from "../assets/img/io.jpg"
+import olive from "../assets/img/olive.jpg"
+import olive1 from "../assets/img/olive2.jpg"
+import supra from "../assets/img/supra.jpg"
+import supra1 from "../assets/img/supra1.jpg"
+import supra2 from "../assets/img/supra2.jpg"
+import supra3 from "../assets/img/supra3.jpg"
+import eco from "../assets/img/eco.jpg"
+import eco1 from "../assets/img/eco1.jpg"
+import nar from "../assets/img/nar.jpg"
+import nar1 from "../assets/img/nar1.jpg"
+import kochkor from "../assets/img/kochkor.jpg"
+import kochkor1 from "../assets/img/kochkor1.jpg"
+import zhen from "../assets/img/zhen.jpg"
+import zhen1 from "../assets/img/zhen1.jpg"
+import khan from "../assets/img/khan.png"
+import khan1 from "../assets/img/khan1.jpg"
+import khan2 from "../assets/img/khan2.jpg"
+import aska from "../assets/img/aska.jpg"
+import aska1 from "../assets/img/aska1.jpg"
+import sary from "../assets/img/sary.jpg"
+import sary1 from "../assets/img/sary1.jpg"
+import sary2 from "../assets/img/sary2.jpg"
+import sary3 from "../assets/img/sary3.jpg"
+import sary4 from "../assets/img/sary4.jpg"
+import bob from "../assets/img/bob.jpg"
+import bob1 from "../assets/img/bob1.jpg"
+import friend from "../assets/img/friend.jpg"
+import friend1 from "../assets/img/friend1.jpg"
+import dom from "../assets/img/dom.jpg"
+import dom1 from "../assets/img/dom1.jpg"
+import eve from "../assets/img/eve.jpg"
+import eve1 from "../assets/img/eve1.jpg"
 
 export const Places = [
     {
@@ -262,15 +404,693 @@ export const Places = [
     },
 ]
 
-export const places = [
+export const hotels = [
     {
         id: uniqid(),
         region: "Issyk-Kul",
-        districts: ["Tyupsky Districts ", "Aksai Districts", "Issyk-Kul Districts", "Jeti-Oguz Districts", "Tonsky  Districts", "Karakol city", "Balykchy city"]
+        districts: [
+            {
+                name: "Issyk-Kul districts",
+                hotels: [
+                    {
+                        id: uniqid(),
+                        title: "Club-hotel Royal Beach",
+                        description1: "We are pleased to offer you to relax in our recreation complex - swimming pool, billiards, table tennis, as well as beach volleyball, cinema, disco club. All this is created so that you can take a break from the bustle of the city...",
+                        description: "This lively waterfront resort is 8 km from Issyk-Kul International Airport and 28 km from the beach with ancient stromatolites and microbialites.\n" +
+                            "Bright rooms with park or mountain views, TVs, mini-fridges and tea/coffee making facilities. Superior rooms feature balconies. Suites have seating areas and lake-side balconies.\n" +
+                            "Three meals a day are included in the price. There is a restaurant, a lounge area, an indoor pool, a games room, a cinema, a playground and a business center on site. There are discos. Parking is free.",
+                        img: royal1,
+                        img1: royal,
+                        img2: [royal2, royal3],
+                        img3: [royal4, royal5, royal6, royal7],
+                        address: "234км, Чок-Тал, Ысык-Көл району",
+                        star:0
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Guest complex «ARTek»",
+                        description1:"We offer you to relax in the guest complex, which is a 3-minute walk from the beach, the territory is landscaped, fenced, with round-the-clock security, there is a parking lot.",
+                        description: " The guest complex \"ARTek\" is located on the northern coast of the lake. Issyk-Kul in the village of Tamchi (40 km from Balykchy) 210 km from Bishkek. We offer you to relax in the guest complex, which is a 3-minute walk from the beach, the territory is landscaped, fenced, with round-the-clock security, there is a parking lot.",
+                        img: artek,
+                        img1: artek1,
+                        img2: [artek2, artek3],
+                        img3: [artek4, artek5, artek6, artek7],
+                        address: "Жундубаев Сагыналы, A363, Тамчи 722119",
+                        star:0
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Hotel Isyyk Kol",
+                        description1:"Located in Balykchy, Issyk Hotel - Kol features a shared lounge and a garden. The reception is open 24/7. Guests can use the shared kitchen.",
+                        description: "The air-conditioned rooms are equipped with a flat-screen TV with cable channels. There is also a kitchen, a dining area, a seating area, a safety deposit box and a private bathroom with a shower and a hairdryer. Some rooms at the Issyk - Kol Hotel offer views of the lake. Each room has a kettle. In addition, towels and bed linen are provided.\n" +
+                            "\n" +
+                            "Guests at Issyk - Kol Hotel can enjoy a continental or buffet breakfast each morning." ,
+                        img: hotel,
+                        img1: hotel,
+                        img2: [hotel1, hotel2],
+                        img3: [hotel3, hotel4, hotel5, hotel6],
+                        address: "город Балыкчы улица аманбаева №208, Балыкчи 721900",
+                        star:0
+                    },
+                ]
+            },
+            {
+                name: "Cholpon-Ata city",
+                hotels: [
+                    {
+                        id: uniqid(),
+                        title: "Olimp Hotel",
+                        description1: "It features a shared lounge, terrace, restaurant and bar. Other facilities at this 3-star hotel include a kids' club and a shared kitchen." ,
+                        description: "Some rooms have a kitchenette with a refrigerator and microwave.\n" +
+                            "\n" +
+                            "Guests can enjoy buffet, continental or American breakfast in the morning.\n" +
+                            "\n" +
+                            "There is a children's playground on site. The area is popular for hiking and cycling. This 3-star hotel offers bike hire.\n" +
+                            "\n" +
+                            "Staff at the 24-hour front desk speak Russian and English and are ready to help guests at any time.\n" +
+                            "\n" +
+                            "Issyk-Kul International Airport is 33 km from Olimp Hotel." ,
+                        img: olimp,
+                        img1: olimp,
+                        img2: [olimp1, olimp2],
+                        img3: [olimp3, olimp4, olimp5, olimp6],
+                        address: "Proektiruemaya 18, Бактуу-Долоноту",
+                        star:3
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Zaton Guesthouse",
+                        description1:"Rooms at the Zaton Guest House have a private bathroom with a shower and a hairdryer, and free Wi-Fi. Some rooms offer mountain views. All rooms are equipped with a flat-screen TV with satellite channels.",
+                        description: " Located in Cholpon-Ata, Zaton Guest House features a garden. Free private parking is available on site. An airport shuttle can be arranged for an extra fee.\n" +
+                            "\n" +
+                            "Other amenities include a kettle. Rooms at the Zaton Guest House have a private bathroom with a shower and a hairdryer, and free Wi-Fi. Some rooms offer mountain views. All rooms are equipped with a flat-screen TV with satellite channels.\n" +
+                            "\n" +
+                            "A la carte, continental or vegan breakfast is served daily.\n" +
+                            "\n" +
+                            "The nearest airport is Issyk-Kul International Airport, 31 km from Zaton Guest House." ,
+                        img: zaton,
+                        img1: zaton,
+                        img2: [zaton1, zaton2],
+                        img3: [zaton3, zaton4, zaton5, zaton6],
+                        address: "J3VP+438, Чолпон-Ата"
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Hotel Zeto",
+                        description1:"Hotel “Zeto - Zeto” is located in Cholpon-Ata. It features a restaurant, bar, garden, free WiFi and a terrace. Those who wish can book family rooms. A balcony overlooking the lake is also available." ,
+                        description:"Hotel “Zeto - Zeto” is located in Cholpon-Ata. It features a restaurant, bar, garden, free WiFi and a terrace. Those who wish can book family rooms. A balcony overlooking the lake is also available.\n" +
+                            "\n" +
+                            "Some units have a kitchen equipped with a microwave, oven and refrigerator.\n" +
+                            "\n" +
+                            "The front desk staff speaks Russian and English and will be happy to provide you with useful tourist information.",
+                        img: zeto,
+                        img1: zeto1,
+                        img2: [zeto2, zeto3],
+                        img3: [zeto4, zeto5, zeto6, zeto7],
+                        address: "Lenina Street 13, Чолпон-Ата 722100"
+                    },
+                ]
+            },
+            {
+                name: "Kara-Kol city",
+                hotels: [
+                    {
+                        id: uniqid(),
+                        title: "My hotel Karakol",
+                        description1: "Caravan Hotel is located in Karakol. Among the various facilities of this property are a shared lounge and ski storage space. The accommodation provides a 24-hour front desk, airport transfers, a shared kitchen and free WiFi throughout the property." ,
+                        description: "The 3-star My Karakol Hotel is located in Karakol. It offers a bar and barbecue facilities. This 3-star hotel offers room service, a 24-hour front desk and free Wi-Fi. The hotel has family rooms.\n" +
+                            "\n" +
+                            "Some rooms at the hotel have a private bathroom and mountain views.\n" +
+                            "\n" +
+                            "A buffet breakfast is served every morning, which includes continental and vegetarian dishes. My hotel Karakol has a restaurant serving local cuisine. Vegetarian, dairy-free and vegan dishes are also available.\n" +
+                            "\n" +
+                            "Guests of the hotel can enjoy various activities in Karakol and the surrounding area, including skiing and cycling.\n" +
+                            "\n" +
+                            "The nearest airport is Issyk-Kul International Airport, 172 km from My hotel Karakol.",
+                        img: myHotel,
+                        img1: myHotel1,
+                        img2: [myHotel2, myHotel3],
+                        img3: [myHotel4, myHotel5, myHotel6, myHotel7],
+                        address: "Масалиева 43, 722200 Каракол, Киргизия ",
+                        star:3
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Hotel 78 Cafe",
+                        description1:"Hotel 78 Cafe has a garden, terrace, a restaurant and bar in Karakol. Boasting family rooms, this property also provides guests with a children's playground.",
+                        description: "A à la carte breakfast is served every morning at 78 Cafe Hotel.\n"+
+
+                        "Amenities include a terrace. Guests at 78 Cafe Hotel will be able to enjoy activities in and around Karakol, like skiing.\n"+
+
+                            "Jol Golot is 3.8 km from the hotel, while Maman is 5.1 km away. The nearest airport is Issyk-Kul International Airport, 174 km from 78 Cafe Hotel. An airport shuttle can be arranged for an extra fee." ,
+                        img: cafe,
+                        img1: cafe1,
+                        img2: [cafe2, cafe3],
+                        img3: [cafe4, cafe5, cafe6, cafe7],
+                        address: " Orozbekova str.78, 722206 Каракол, Киргизия "
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Muras Hotel Karakol",
+                        description1:"Located in Karakol, Muras Karakol Hotel features a shared lounge. At the property you will find a shared kitchen and a terrace. Free private parking is available on site. An airport shuttle service can be arranged for an extra charge",
+                        description:"Each room at the hotel has a desk.\n" +
+                            "\n" +
+                            "A continental breakfast is served each morning at Muras Karakol Hotel.\n" +
+                            "\n" +
+                            "In Karakol and its surroundings, you can actively spend your leisure time, including skiing.\n" +
+                            "\n" +
+                            "The reception staff speaks English and Russian and is always happy to provide guests with useful tourist information.\n" +
+                            "\n" +
+                            "The nearest airport is Issyk-Kul International Airport, 168 km from Muras Hotel.",
+                        img: muras,
+                        img1: muras1,
+                        img2: [muras2, muras3],
+                        img3: [muras4, muras5, muras6, muras7],
+                        address: " улица Пржевальского б/н, 722200 Каракол, Киргизия"
+                    },
+                ]
+            },
+        ]
     },
     {
         id: uniqid(),
-        region: "Issyk-Kul",
-        districts: ["Tyupsky Districts ", "Aksai Districts", "Issyk-Kul Districts", "Jeti-Oguz Districts", "Tonsky  Districts", "Karakol city", "Balykchy city"]
+        region: "Bishkek",
+        districts: [
+            {
+                name: "Pervomaisky district",
+                hotels: [
+                    {
+                        id: uniqid(),
+                        title: "Lavitor hotel",
+                        description1: "Hotel Lavitor is located in Bishkek. It offers free bikes, a garden, a terrace, a restaurant, a ski pass sales point, ski storage, a bar, BBQ facilities and currency exchange. Room service is available. The property offers a free shuttle service.",
+                        description: "The air-conditioned rooms are equipped with a flat-screen TV with cable channels. They include a seating area, a safety deposit box and a private bathroom with a shower, a hairdryer and free toiletries. A kettle is provided. Some rooms have a balcony, while others offer mountain views. Rooms at Lavitor Hotel are stocked with bed linen and towels.\n" +
+                            "\n" +
+                            "An à la carte, continental and vegetarian breakfast is served each morning.\n" +
+                            "\n" +
+                            "The area is popular for cycling and skiing. Car rental is available for guests.\n" +
+                            "\n" +
+                            "The property offers ironing facilities, free private parking, a business center and a 24-hour front desk.",
+                        img: lavitor,
+                        img1: lavitor,
+                        img2: [lavitor1, lavitor2],
+                        img3: [lavitor3, lavitor5, lavitor6, lavitor4],
+                        address: " Bayalinova 166a, 720014 Бишкек, Киргизия",
+                        star:0
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Gоlden Dragon Villa Hotel",
+                        description1:"All rooms at the hotel are equipped with a kettle. Other amenities include air conditioning, a wardrobe and a flat-screen TV. Some rooms at Golden Dragon Villa have a balcony. All rooms are stocked with towels and bed linen.",
+                        description: "Featuring a garden and a bar, Golden Dragon Villa is a 3-star hotel located in Bishkek. This 3-star hotel offers a concierge service and luggage storage space. There is a 24-hour front desk. Airport transfers and room service are available. Free Wi-Fi is provided.\n" +
+                            "\n" +
+                            "All rooms at the hotel are equipped with a kettle. Other amenities include air conditioning, a wardrobe and a flat-screen TV. Some rooms at Golden Dragon Villa have a balcony. All rooms are stocked with towels and bed linen.\n" +
+                            "\n" +
+                            "Guests at the Golden Dragon Villa can enjoy a continental breakfast.",
+                        img: golden,
+                        img1: golden,
+                        img2: [artek2, artek3],
+                        img3: [artek4, artek5, artek6, artek7],
+                        address: " Kasymaly Bayalinov Street 134, 720040 Бишкек, Киргизия ",
+                        star:0
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Sheraton Bishkek",
+                        description1:"Sheraton Bishkek Hotel is located in Bishkek. It offers free bike rental, a terrace, a restaurant and a bar.",
+                        description: "The air-conditioned rooms are equipped with a flat-screen TV with cable channels. There is also a kitchen, a dining area, a seating area, a safety deposit box and a private bathroom with a shower and a hairdryer. Some rooms at the Issyk - Kol Hotel offer views of the lake. Each room has a kettle. In addition, towels and bed linen are provided.\n" +
+                            "\n" +
+                            "Guests at Issyk - Kol Hotel can enjoy a continental or buffet breakfast each morning." ,
+                        img: sheraton,
+                        img1: sheraton1,
+                        img2: [sheraton2, sheraton3],
+                        img3: [sheraton4, sheraton5, sheraton6, sheraton7],
+                        address: " Sheraton Grand Bishkek 148B, Kievskaya Street, 720001 Бишкек, Киргизия ",
+                        star:5
+                    },
+                ]
+            },
+            {
+                name: "Sverdlovsk district",
+                hotels: [
+                    {
+                        id: uniqid(),
+                        title: "Maryotel",
+                        description1: "This 4-star hotel is located in Bishkek. It offers spacious rooms decorated in a contemporary style. Free Wi-Fi and parking are provided",
+                        description: "Some rooms have a kitchenette with a refrigerator and microwave.\n" +
+                            "\n" +
+                            "Guests can enjoy buffet, continental or American breakfast in the morning.\n" +
+                            "\n" +
+                            "There is a children's playground on site. The area is popular for hiking and cycling. This 3-star hotel offers bike hire.\n" +
+                            "\n" +
+                            "Staff at the 24-hour front desk speak Russian and English and are ready to help guests at any time.\n" +
+                            "\n" +
+                            "Issyk-Kul International Airport is 33 km from Olimp Hotel." ,
+                        img: mar,
+                        img1: mar1,
+                        img2: [mar2, mar3],
+                        img3: [mar4, mar5, mar6, mar7],
+                        address: " Pobedy Prospekt 351, 724300 Бишкек, Киргизия ",
+                        star:4
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Lumarc Hotel",
+                        description1:"The 3-star Lumarc Hotel is located in Bishkek. This 3-star hotel has a restaurant. It offers air-conditioned rooms with free Wi-Fi and a private bathroom. Free private parking is available on site. An airport shuttle can be arranged at an additional cost.",
+                        description: " Located in Cholpon-Ata, Zaton Guest House features a garden. Free private parking is available on site. An airport shuttle can be arranged for an extra fee.\n" +
+                            "\n" +
+                            "Other amenities include a kettle. Rooms at the Zaton Guest House have a private bathroom with a shower and a hairdryer, and free Wi-Fi. Some rooms offer mountain views. All rooms are equipped with a flat-screen TV with satellite channels.\n" +
+                            "\n" +
+                            "A la carte, continental or vegan breakfast is served daily.\n" +
+                            "\n" +
+                            "The nearest airport is Issyk-Kul International Airport, 31 km from Zaton Guest House." ,
+                        img: lamrc,
+                        img1: lamrc,
+                        img2: [zaton1, zaton2],
+                        img3: [zaton3, zaton4, zaton5, zaton6],
+                        address: " Frunze Street 122, 720000 Бишкек, Киргизия",
+                        star:0
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Futuro Hotel Bishkek",
+                        description1:"Futuro Bishkek Hotel is located in Bishkek, a 2-minute walk from central Chui Avenue and a 10-minute drive from Ala-Too Square. Free Wi-Fi is available on site.",
+                        description:"Hotel “Zeto - Zeto” is located in Cholpon-Ata. It features a restaurant, bar, garden, free WiFi and a terrace. Those who wish can book family rooms. A balcony overlooking the lake is also available.\n" +
+                            "\n" +
+                            "Some units have a kitchen equipped with a microwave, oven and refrigerator.\n" +
+                            "\n" +
+                            "The front desk staff speaks Russian and English and will be happy to provide you with useful tourist information.",
+                        img: futuro,
+                        img1: futuro1,
+                        img2: [futuro2, futuro3],
+                        img3: [zeto4, zeto5, zeto6, zeto7],
+                        address: "Udmurtskaia Street 13, 720000 Бишкек, Киргизия"
+                    },
+                ]
+            },
+            {
+                name: "Leninsky district",
+                hotels: [
+                    {
+                        id: uniqid(),
+                        title: "Hotel Touristan Bishkek",
+                        description1: "Featuring a bar, Touristan Bishkek is a 3-star hotel located in Bishkek. This 3-star hotel has a 24-hour front desk. Room service is available. Guests can visit the snack bar.",
+                        description: "The 3-star My Karakol Hotel is located in Karakol. It offers a bar and barbecue facilities. This 3-star hotel offers room service, a 24-hour front desk and free Wi-Fi. The hotel has family rooms.\n" +
+                            "\n" +
+                            "Some rooms at the hotel have a private bathroom and mountain views.\n" +
+                            "\n" +
+                            "A buffet breakfast is served every morning, which includes continental and vegetarian dishes. My hotel Karakol has a restaurant serving local cuisine. Vegetarian, dairy-free and vegan dishes are also available.\n" +
+                            "\n" +
+                            "Guests of the hotel can enjoy various activities in Karakol and the surrounding area, including skiing and cycling.\n" +
+                            "\n" +
+                            "The nearest airport is Issyk-Kul International Airport, 172 km from My hotel Karakol.",
+                        img: touristan,
+                        img1: touristan1,
+                        img2: [myHotel2, myHotel3],
+                        img3: [myHotel4, myHotel5, myHotel6, myHotel7],
+                        address: " 194 Bokonbayev Street 194 Bokonbayev Street, 720021 Бишкек, Киргизия ",
+                        star:3
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Garden Hotel & SPA",
+                        description1:"Garden Spa Hotel is located in Bishkek. It features a bar, restaurant, a shared lounge and terrace. All rooms at the 4-star hotel offer city views." ,
+                        description: "A à la carte breakfast is served every morning at 78 Cafe Hotel.\n"+
+
+                        "Amenities include a terrace. Guests at 78 Cafe Hotel will be able to enjoy activities in and around Karakol, like skiing.\n"+
+
+                            "Jol Golot is 3.8 km from the hotel, while Maman is 5.1 km away. The nearest airport is Issyk-Kul International Airport, 174 km from 78 Cafe Hotel. An airport shuttle can be arranged for an extra fee." ,
+                        img: spa,
+                        img1: spa1,
+                        img2: [cafe2, cafe3],
+                        img3: [cafe4, cafe5, cafe6, cafe7],
+                        address: " Южная Магистраль пересекает ул. Баха. Эмилбека Айлчиева 61, 720047 Бишкек ",
+                        star:4
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Eva At Home - Bishkek",
+                        description1:"Eva At Home - Bishkek is located in Bishkek. The reception is open 24 hours a day, free Wi-Fi is available throughout the property and there is an ATM in the building.",
+                        description:"Each room at the hotel has a desk.\n" +
+                            "\n" +
+                            "A continental breakfast is served each morning at Muras Karakol Hotel.\n" +
+                            "\n" +
+                            "In Karakol and its surroundings, you can actively spend your leisure time, including skiing.\n" +
+                            "\n" +
+                            "The reception staff speaks English and Russian and is always happy to provide guests with useful tourist information.\n" +
+                            "\n" +
+                            "The nearest airport is Issyk-Kul International Airport, 168 km from Muras Hotel.",
+                        img: eva,
+                        img1: eva1,
+                        img2: [eva2, muras3],
+                        img3: [muras4, muras5, muras6, muras7],
+                        address: " 262 Moskovskaya Street, 720010 Бишкек, Киргизия ",
+                        star:0
+                    },
+                ]
+            },
+            {
+                name: "Oktyabrsky district",
+                hotels: [
+                    {
+                        id: uniqid(),
+                        title: "Hotel Resident Bishkek",
+                        description1: "Located in Bishkek, Resident Bishkek 2021Opening Hotel offers 4-star accommodation with a terrace and a bar. This 4-star hotel offers a shared lounge, air conditioning, a private bathroom and free WiFi.",
+                        description: "The 3-star My Karakol Hotel is located in Karakol. It offers a bar and barbecue facilities. This 3-star hotel offers room service, a 24-hour front desk and free Wi-Fi. The hotel has family rooms.\n" +
+                            "\n" +
+                            "Some rooms at the hotel have a private bathroom and mountain views.\n" +
+                            "\n" +
+                            "A buffet breakfast is served every morning, which includes continental and vegetarian dishes. My hotel Karakol has a restaurant serving local cuisine. Vegetarian, dairy-free and vegan dishes are also available.\n" +
+                            "\n" +
+                            "Guests of the hotel can enjoy various activities in Karakol and the surrounding area, including skiing and cycling.\n" +
+                            "\n" +
+                            "The nearest airport is Issyk-Kul International Airport, 172 km from My hotel Karakol.",
+                        img: res,
+                        img1: res1,
+                        img2: [res2, myHotel3],
+                        img3: [myHotel4, myHotel5, myHotel6, myHotel7],
+                        address: " 102/4 Yunusaliev Avenue Юнусалиева 102/4 Джантошева, 720005 Бишкек, Киргизия ",
+                        star:4
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Garnet hotel",
+                        description1:"Offering free WiFi, Garnet Apart Hotel is located in Bishkek. Free private parking is available on site.",
+                        description: "A à la carte breakfast is served every morning at 78 Cafe Hotel.\n"+
+
+                        "Amenities include a terrace. Guests at 78 Cafe Hotel will be able to enjoy activities in and around Karakol, like skiing.\n"+
+
+                            "Jol Golot is 3.8 km from the hotel, while Maman is 5.1 km away. The nearest airport is Issyk-Kul International Airport, 174 km from 78 Cafe Hotel. An airport shuttle can be arranged for an extra fee." ,
+                        img: gra,
+                        img1: gra,
+                        img2: [cafe2, cafe3],
+                        img3: [cafe4, cafe5, cafe6, cafe7],
+                        address: "  Ulitsa Kulmurzayeva 318, 720082 Бишкек, Киргизия",
+                        star:0
+                    },
+                    {
+                        id: uniqid(),
+                        title: "iO Hotel Bishkek",
+                        description1:"The  IO Bishkek Hotel is  1-star hotel offers luggage storage space. The reception is open 24/7.   Free Wi-Fi is provided.",
+                        description:"Each room at the hotel has a desk.\n" +
+                            "\n" +
+                            "A continental breakfast is served each morning at Muras Karakol Hotel.\n" +
+                            "\n" +
+                            "In Karakol and its surroundings, you can actively spend your leisure time, including skiing.\n" +
+                            "\n" +
+                            "The reception staff speaks English and Russian and is always happy to provide guests with useful tourist information.\n" +
+                            "\n" +
+                            "The nearest airport is Issyk-Kul International Airport, 168 km from Muras Hotel.",
+                        img: io,
+                        img1: eva1,
+                        img2: [eva2, muras3],
+                        img3: [muras4, muras5, muras6, muras7],
+                        address: " 262 Moskovskaya Street, 720010 Бишкек, Киргизия ",
+                        star:0
+                    },
+                ]
+            },
+        ]
     },
+    {
+        id: uniqid(),
+        region: "Chuy",
+        districts: [
+            {
+                name: "Alamudun district",
+                hotels: [
+                    {
+                        id: uniqid(),
+                        title: "Olive Ala Archa hotel",
+                        description1:"Featuring a bar, restaurant, terrace, free WiFi and a children's playground, Olive Ala Archa is a 3-star hotel located in Verkhnyaya Ala-Archa. All rooms offer river views. ",
+                        description: "The air-conditioned rooms are equipped with a flat-screen TV with cable channels. They include a seating area, a safety deposit box and a private bathroom with a shower, a hairdryer and free toiletries. A kettle is provided. Some rooms have a balcony, while others offer mountain views. Rooms at Lavitor Hotel are stocked with bed linen and towels.\n" +
+                            "\n" +
+                            "An à la carte, continental and vegetarian breakfast is served each morning.\n" +
+                            "\n" +
+                            "The area is popular for cycling and skiing. Car rental is available for guests.\n" +
+                            "\n" +
+                            "The property offers ironing facilities, free private parking, a business center and a 24-hour front desk.",
+                        img: olive,
+                        img1: olive1,
+                        img2: [lavitor1, lavitor2],
+                        img3: [lavitor3, lavitor5, lavitor6, lavitor4],
+                        address: "  Дачное сообщество Наука 293, 724306 Verkhnyaya Alaarcha, Киргизия",
+                        star:3
+                    },
+
+
+                ]
+            },
+            {
+                name: "Sverdlovsk district",
+                hotels: [
+                    {
+                        id: uniqid(),
+                        title: "GSupara Chunkurchak",
+                        description1:"Supara Chunkurchak is located in Alamedin. It features a fitness centre, a garden, a terrace and a restaurant. Concierge services are offered to guests. There is a playground for children.",
+                        description: "Featuring a garden and a bar, Golden Dragon Villa is a 3-star hotel located in Bishkek. This 3-star hotel offers a concierge service and luggage storage space. There is a 24-hour front desk. Airport transfers and room service are available. Free Wi-Fi is provided.\n" +
+                            "\n" +
+                            "All rooms at the hotel are equipped with a kettle. Other amenities include air conditioning, a wardrobe and a flat-screen TV. Some rooms at Golden Dragon Villa have a balcony. All rooms are stocked with towels and bed linen.\n" +
+                            "\n" +
+                            "Guests at the Golden Dragon Villa can enjoy a continental breakfast.",
+                        img: supra,
+                        img1: supra1,
+                        img2: [supra3, supra2],
+                        img3: [artek4, artek5, artek6, artek7],
+                        address: " Gorge Chunkurchak, 720001 Alamedin, Киргизия  ",
+                        star:0
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Eco Resort Kara Bulak",
+                        description1:" Eco-resort Kara Bulak is located in Alamedin. There is a bar on site. All rooms are equipped with a kitchenette, a private bathroom, a flat-screen TV with satellite channels, a terrace, free private parking and free Wi-Fi.",
+                        description: " Located in Cholpon-Ata, Zaton Guest House features a garden. Free private parking is available on site. An airport shuttle can be arranged for an extra fee.\n" +
+                            "\n" +
+                            "Other amenities include a kettle. Rooms at the Zaton Guest House have a private bathroom with a shower and a hairdryer, and free Wi-Fi. Some rooms offer mountain views. All rooms are equipped with a flat-screen TV with satellite channels.\n" +
+                            "\n" +
+                            "A la carte, continental or vegan breakfast is served daily.\n" +
+                            "\n" +
+                            "The nearest airport is Issyk-Kul International Airport, 31 km from Zaton Guest House." ,
+                        img: eco,
+                        img1: eco1,
+                        img2: [zaton1, zaton2],
+                        img3: [zaton3, zaton4, zaton5, zaton6],
+                        address:" s. Arashan, urochische Tatyr, mestnosty Kara-Bulak, 720021 Alamedin, Киргизия ",
+                        star:0
+                    },
+                ]
+            },
+
+        ]
+    },
+    {
+        id: uniqid(),
+        region: "Naryn",
+        districts: [
+            {
+                name: "Jumgal district",
+                hotels: [
+                    {
+                        id: uniqid(),
+                        title: "Yurt Camp Sary-Bulun",
+                        description1:"Offering a bar, Yurt Camping Sary-Bulun is a 5-star hotel located in Song-Kul. This 5-star hotel has a 24-hour front desk. Room service is available. Those who wish can book family rooms.",
+                        description: "The air-conditioned rooms are equipped with a flat-screen TV with cable channels. They include a seating area, a safety deposit box and a private bathroom with a shower, a hairdryer and free toiletries. A kettle is provided. Some rooms have a balcony, while others offer mountain views. Rooms at Lavitor Hotel are stocked with bed linen and towels.\n" +
+                            "\n" +
+                            "An à la carte, continental and vegetarian breakfast is served each morning.\n" +
+                            "\n" +
+                            "The area is popular for cycling and skiing. Car rental is available for guests.\n" +
+                            "\n" +
+                            "The property offers ironing facilities, free private parking, a business center and a 24-hour front desk.",
+                        img: nar,
+                        img1: nar1,
+                        img2: [lavitor1, lavitor2],
+                        img3: [lavitor3, lavitor5, lavitor6, lavitor4],
+                        address: "  озеро Сон-Куль, 722506 Song-Kul, Киргизия",
+                        star:5
+                    },
+
+
+                ]
+            },
+            {
+                name: "Kochkor  district",
+                hotels: [
+                    {
+                        id: uniqid(),
+                        title: "Olive hotel Kochkor",
+                        description1:"Olive Kochkor Hotel is located in Kochkor. This 3-star hotel offers free Wi-Fi and a tour desk. Organized delivery of food and drinks in the room. The hotel can book family rooms.",
+                        description: "Featuring a garden and a bar, Golden Dragon Villa is a 3-star hotel located in Bishkek. This 3-star hotel offers a concierge service and luggage storage space. There is a 24-hour front desk. Airport transfers and room service are available. Free Wi-Fi is provided.\n" +
+                            "\n" +
+                            "All rooms at the hotel are equipped with a kettle. Other amenities include air conditioning, a wardrobe and a flat-screen TV. Some rooms at Golden Dragon Villa have a balcony. All rooms are stocked with towels and bed linen.\n" +
+                            "\n" +
+                            "Guests at the Golden Dragon Villa can enjoy a continental breakfast.",
+                        img: kochkor,
+                        img1: kochkor1,
+                        img2: [supra3, supra2],
+                        img3: [artek4, artek5, artek6, artek7],
+                        address: " улица Сагынбая Орозбакова 77, 722800 Кочкор, Киргизия ",
+                        star:3
+                    },
+
+                ]
+            },
+            {
+                name: "Naryn  district",
+                hotels: [
+                    {
+                        id: uniqid(),
+                        title: "Zheenkan 1",
+                        description1:"Zhezenkan 1 Hotel is located in Naryn. Guests can relax in the shared lounge and enjoy free Wi-Fi throughout.",
+                        description: "Featuring a garden and a bar, Golden Dragon Villa is a 3-star hotel located in Bishkek. This 3-star hotel offers a concierge service and luggage storage space. There is a 24-hour front desk. Airport transfers and room service are available. Free Wi-Fi is provided.\n" +
+                            "\n" +
+                            "All rooms at the hotel are equipped with a kettle. Other amenities include air conditioning, a wardrobe and a flat-screen TV. Some rooms at Golden Dragon Villa have a balcony. All rooms are stocked with towels and bed linen.\n" +
+                            "\n" +
+                            "Guests at the Golden Dragon Villa can enjoy a continental breakfast.",
+                        img: zhen,
+                        img1: zhen,
+                        img2: [zhen1, supra2],
+                        img3: [artek4, artek5, artek6, artek7],
+                        address: "  Lenina 8, kv 8, 722915 Naryn, Киргизия – ",
+                        star:0
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Grand Khan tenry Naryn",
+                        description1:"Hotel GRAND KHAN TENGRI 4 * is located in the city of Naryn. The complex has a restaurant, a 24-hour front desk and a shared kitchen. Free Wi-Fi is available throughout the property.",
+                        description: "Featuring a garden and a bar, Golden Dragon Villa is a 3-star hotel located in Bishkek. This 3-star hotel offers a concierge service and luggage storage space. There is a 24-hour front desk. Airport transfers and room service are available. Free Wi-Fi is provided.\n" +
+                            "\n" +
+                            "All rooms at the hotel are equipped with a kettle. Other amenities include air conditioning, a wardrobe and a flat-screen TV. Some rooms at Golden Dragon Villa have a balcony. All rooms are stocked with towels and bed linen.\n" +
+                            "\n" +
+                            "Guests at the Golden Dragon Villa can enjoy a continental breakfast.",
+                        img: khan,
+                        img1: khan1,
+                        img2: [khan2, supra2],
+                        img3: [artek4, artek5, artek6, artek7],
+                        address: "Асан Жусупов №2, 722600 Naryn, Киргизия ",
+                        star:4
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Aska Hotel",
+                        description1:"Aska Hotel is located in Naryn. It features a bar, garden, terrace and free Wi-Fi. The hotel has family rooms.",
+                        description: "Featuring a garden and a bar, Golden Dragon Villa is a 3-star hotel located in Bishkek. This 3-star hotel offers a concierge service and luggage storage space. There is a 24-hour front desk. Airport transfers and room service are available. Free Wi-Fi is provided.\n" +
+                            "\n" +
+                            "All rooms at the hotel are equipped with a kettle. Other amenities include air conditioning, a wardrobe and a flat-screen TV. Some rooms at Golden Dragon Villa have a balcony. All rooms are stocked with towels and bed linen.\n" +
+                            "\n" +
+                            "Guests at the Golden Dragon Villa can enjoy a continental breakfast.",
+                        img: aska,
+                        img1: aska1,
+                        img2: [khan2, supra2],
+                        img3: [artek4, artek5, artek6, artek7],
+                        address: "Chiechieibaieva, dom 30a, 722917 Naryn, Киргизия  ",
+                        star:0
+                    },
+
+                ]
+            },
+
+        ]
+    },
+    {
+        id: uniqid(),
+        region: "Jalal-Abad",
+        districts: [
+            {
+                name: "Aksy district",
+                hotels: [
+                    {
+                        id: uniqid(),
+                        title: "Guest House Sary-Chelek",
+                        description1:"Sary-Chelek Guesthouse is located in Arkit and features a garden and a terrace. Guests can make use of the barbecue facilities and order room service. It offers a 24-hour front desk, a shared kitchen and a tour desk.",
+                        description: "The air-conditioned rooms are equipped with a flat-screen TV with cable channels. They include a seating area, a safety deposit box and a private bathroom with a shower, a hairdryer and free toiletries. A kettle is provided. Some rooms have a balcony, while others offer mountain views. Rooms at Lavitor Hotel are stocked with bed linen and towels.\n" +
+                            "\n" +
+                            "An à la carte, continental and vegetarian breakfast is served each morning.\n" +
+                            "\n" +
+                            "The area is popular for cycling and skiing. Car rental is available for guests.\n" +
+                            "\n" +
+                            "The property offers ironing facilities, free private parking, a business center and a 24-hour front desk.",
+                        img: sary,
+                        img1: sary1,
+                        img2: [sary2, sary3],
+                        img3: [sary4, lavitor5, lavitor6, lavitor4],
+                        address: " Doroga Do Zapovednika \"Sary-Chelek\", 720604 Arkit, Киргизия",
+                        star:0
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Everest2",
+                        description1:"Featuring a garden, Эверест2 is located in Arkit. There is a terrace and guests can make use of free WiFi and free private parking.\n",
+                        description: "The air-conditioned rooms are equipped with a flat-screen TV with cable channels. They include a seating area, a safety deposit box and a private bathroom with a shower, a hairdryer and free toiletries. A kettle is provided. Some rooms have a balcony, while others offer mountain views. Rooms at Lavitor Hotel are stocked with bed linen and towels.\n" +
+                            "\n" +
+                            "An à la carte, continental and vegetarian breakfast is served each morning.\n" +
+                            "\n" +
+                            "The area is popular for cycling and skiing. Car rental is available for guests.\n" +
+                            "\n" +
+                            "The property offers ironing facilities, free private parking, a business center and a 24-hour front desk.",
+                        img: eve,
+                        img1: eve,
+                        img2: [eve1, sary3],
+                        img3: [sary4, lavitor5, lavitor6, lavitor4],
+                        address: " с.Аркит., 720604 Arkit, Киргизия",
+                        star:0
+                    },
+
+                ]
+            },
+            {
+                name: "Bazaar Korgon  district",
+                hotels: [
+                    {
+                        id: uniqid(),
+                        title: "Happy Family Guesthouse",
+                        description1:"Happy Family Guesthouse is offering accommodation in Arslanbob. Guests can enjoy garden views.",
+                        description: "Featuring a garden and a bar, Golden Dragon Villa is a 3-star hotel located in Bishkek. This 3-star hotel offers a concierge service and luggage storage space. There is a 24-hour front desk. Airport transfers and room service are available. Free Wi-Fi is provided.\n" +
+                            "\n" +
+                            "All rooms at the hotel are equipped with a kettle. Other amenities include air conditioning, a wardrobe and a flat-screen TV. Some rooms at Golden Dragon Villa have a balcony. All rooms are stocked with towels and bed linen.\n" +
+                            "\n" +
+                            "Guests at the Golden Dragon Villa can enjoy a continental breakfast.",
+                        img: bob,
+                        img1: bob1,
+                        img2: [supra3, supra2],
+                        img3: [artek4, artek5, artek6, artek7],
+                        address: " asanov 3, 720801 Arslanbob, Киргизия ",
+                        star:0
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Friendship (guest house)*",
+                        description1: "Located in Arslob (guest house), Friendship Guesthouse provides accommodation with free WiFi, air conditioning and access to a garden with a terrace.",
+                        description: "Featuring a garden and a bar, Golden Dragon Villa is a 3-star hotel located in Bishkek. This 3-star hotel offers a concierge service and luggage storage space. There is a 24-hour front desk. Airport transfers and room service are available. Free Wi-Fi is provided.\n" +
+                            "\n" +
+                            "All rooms at the hotel are equipped with a kettle. Other amenities include air conditioning, a wardrobe and a flat-screen TV. Some rooms at Golden Dragon Villa have a balcony. All rooms are stocked with towels and bed linen.\n" +
+                            "\n" +
+                            "Guests at the Golden Dragon Villa can enjoy a continental breakfast.",
+                        img: friend,
+                        img1: friend,
+                        img2: [friend1, supra2],
+                        img3: [artek4, artek5, artek6, artek7],
+                        address: " Arslanbob 37 Ул Арслонбоб 37, 720801 Arslanbob, Киргизия",
+                        star:0
+                    },
+                    {
+                        id: uniqid(),
+                        title: "Guest House EtnoDom",
+                        description1: "Located in Arslob (guest house), Friendship Guesthouse provides accommodation with free WiFi, air conditioning and access to a garden with a terrace.",
+                        description: "Featuring a garden and a bar, Golden Dragon Villa is a 3-star hotel located in Bishkek. This 3-star hotel offers a concierge service and luggage storage space. There is a 24-hour front desk. Airport transfers and room service are available. Free Wi-Fi is provided.\n" +
+                            "\n" +
+                            "All rooms at the hotel are equipped with a kettle. Other amenities include air conditioning, a wardrobe and a flat-screen TV. Some rooms at Golden Dragon Villa have a balcony. All rooms are stocked with towels and bed linen.\n" +
+                            "\n" +
+                            "Guests at the Golden Dragon Villa can enjoy a continental breakfast.",
+                        img: dom,
+                        img1: dom,
+                        img2: [dom1, supra2],
+                        img3: [artek4, artek5, artek6, artek7],
+                        address: " Ulitsa Reka Azimova 1/A, 720904 Джалал-Абад, Киргизия ",
+                        star:0
+                    },
+
+                ]
+            },
+        ]
+    },
+
 ]

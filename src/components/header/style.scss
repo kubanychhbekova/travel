@@ -1,5 +1,5 @@
 #header {
-  background: linear-gradient(180deg, rgba(9, 146, 213, 0.50) 54.03%, rgba(0, 0, 0, 0.25) 64.69%);
+  background: linear-gradient(180deg, rgba(9, 146, 213, 0.50) 5.03%, rgba(0, 0, 0, 0.25) 64.69%);
   backdrop-filter: blur(15px);
   position: fixed;
   top: 0;
@@ -10,8 +10,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 25px 0;
-    gap: 25%;
+    padding: 20px 0;
+    gap: 190px;
 
     &--logo {
       display: flex;
@@ -41,7 +41,7 @@
 
       &__pages {
         display: flex;
-        gap: 60px;
+        gap: 36px;
         align-items: center;
 
         h1 {
@@ -50,6 +50,8 @@
           font-size: 18px;
           font-weight: 600;
           cursor: pointer;
+          padding: 10px;
+          letter-spacing: .5px;
         }
 
         h1:hover {
@@ -57,6 +59,7 @@
         }
 
         &--select {
+
           select {
             border: none;
             outline: none;

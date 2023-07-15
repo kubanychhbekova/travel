@@ -134,6 +134,8 @@ import eva from "../assets/img/eva.jpg"
 import eva1 from "../assets/img/eva1.jpg"
 import eva2 from "../assets/img/eva2.jpg"
 import res from "../assets/img/res.jpg"
+import sonKulBg4 from "../assets/img/sonKul4.png"
+import Arashan4 from "../assets/img/Arashan4.png"
 import res1 from "../assets/img/res1.jpg"
 import res2 from "../assets/img/res2.jpg"
 import gra from "../assets/img/gra.jpg"
@@ -173,7 +175,7 @@ import eve1 from "../assets/img/eve1.jpg"
 
 export const Places = [
     {
-        id: uniqid(),
+        id: 1,
         title: "Son-Kol Lake",
         img: sonKul,
         description: "Son-Kol Lake (Sonkel,Son kul) is located in the north-west of the Naryn region of Kyrgythstan.THis is the second largest lake in the country after Issyk-Kul",
@@ -186,6 +188,7 @@ export const Places = [
         bgImg2: sonKulBg2,
         tourism: "Son-Kul is a potential object of ecological tourism. The nearest large settlement is a small village of Seagulls",
         tourismImg: sonKulBg3,
+        bgImg4: sonKulBg4,
         tourism2: "In summer, the inhabited areas around the lake have attracted shepherds from Kochkor, Naryn and At-Bashi since ancient times. Therefore, here vacationers can have a wonderful opportunity not only to stay in the national dwelling — yurt, but also to quench their thirst with the national Kyrgyz drink — kumys. It is prepared using a special technology from mare's milk and has a number of medicinal properties.\n" +
             "\n" +
             "To visit this area is prompted by the lake itself, which has \"stepped over\" a height of 3000 meters, as well as its beauty and stunningly clean air, which can become the best medicine for your soul, the analogues of which you will never find anywhere else. And our company will easily help you to carry out this kind of \"mental treatment\".",
@@ -202,7 +205,7 @@ export const Places = [
         photos: [photo1, photo2, photo3, photo4, photo5]
     },
     {
-        id: uniqid(),
+        id: 2,
         title: "Altyn-Arashan Gorge",
         img: arshan,
         description: "Altyn-Arashan (Golden Spring) is located in an Alpine valley, as if descended from an art postcard. It is located at an altitude of 3000 meters, in the south of which is Palatka peak (4260 m).",
@@ -212,6 +215,7 @@ export const Places = [
         bgImg2: arshanBg2,
         tourism: "Son-Kul is a potential object of ecological tourism. The nearest large settlement is a small village of Seagulls",
         tourismImg: arshanBg3,
+        bgImg4: Arashan4,
         tourism2: "Another reason for tourists' love for this place is the Aksu Wall, which is also called Palatka Peak, because of its unusual trapezoidal shape, which is very rare for the Tien Shan Mountains. The view of the wall has become a kind of visiting card of the gorge. Hiking enthusiasts will be particularly interested in walking to the foot of the peak, where there is a small glacial lake Kashka-Suu and several waterfalls: Sharkyratma, Kuldurek, Tash-Tektir, Archaly-Tor and Takyr-Tor.\n" +
             "The Altyn-Arashan gorge has a complex geographical relief, unlike other mountain gorges of the northern Tien Shan. In its lower part, Altyn-Arashan is a narrow canyon with a large degree of elevation, and a stormy river that can flood the road in summer. In the upper part, the gorge significantly expands and becomes a kind of high-altitude valley, with a very smooth elevation difference. Upstream of the river, the gorge divides, forming two arms that encircle the Aksu Wall on the right and left sides.\n" +
             "There are a huge number of tourist routes in Altyn-Arashan. This place is used as a base camp for radial exits, as a transshipment point on the way to Ala-Kul, Ak-Suu gorge or Karakol Valley and Jety-Oguz. It is also a wonderful place to relax among the untouched nature of the Tien Shan.",
@@ -228,7 +232,7 @@ export const Places = [
         photos: [arshanPhoto, arshanPhoto2, arshanPhoto3, arshanPhoto4, arshanPhoto5]
     },
     {
-        id: uniqid(),
+        id: 3,
         title: "Jeti Oguz Gorge",
         img: jeti,
         description: "In the Jeti-Oguz gorge, you can see unusual red rocks that from a distance resemble seven bulls lying on the ground. The Kyrgyz have a legend about how they appeared.",
@@ -237,6 +241,7 @@ export const Places = [
         bgImg2: jetiBg2,
         tourism: "Son-Kul is a potential object of ecological tourism. The nearest large settlement is a small village of Seagulls",
         tourismImg: arshanBg3,
+        bgImg4: sonKulBg4,
         tourism2: "Another reason for tourists' love for this place is the Aksu Wall, which is also called Palatka Peak, because of its unusual trapezoidal shape, which is very rare for the Tien Shan Mountains. The view of the wall has become a kind of visiting card of the gorge. Hiking enthusiasts will be particularly interested in walking to the foot of the peak, where there is a small glacial lake Kashka-Suu and several waterfalls: Sharkyratma, Kuldurek, Tash-Tektir, Archaly-Tor and Takyr-Tor.\n" +
             "The Altyn-Arashan gorge has a complex geographical relief, unlike other mountain gorges of the northern Tien Shan. In its lower part, Altyn-Arashan is a narrow canyon with a large degree of elevation, and a stormy river that can flood the road in summer. In the upper part, the gorge significantly expands and becomes a kind of high-altitude valley, with a very smooth elevation difference. Upstream of the river, the gorge divides, forming two arms that encircle the Aksu Wall on the right and left sides.\n" +
             "There are a huge number of tourist routes in Altyn-Arashan. This place is used as a base camp for radial exits, as a transshipment point on the way to Ala-Kul, Ak-Suu gorge or Karakol Valley and Jety-Oguz. It is also a wonderful place to relax among the untouched nature of the Tien Shan.",
@@ -253,7 +258,7 @@ export const Places = [
         photos: [arshanPhoto, arshanPhoto2, arshanPhoto3, arshanPhoto4, arshanPhoto5]
     },
     {
-        id: uniqid(),
+        id: 4,
         title: "Ala-Archa gorge.",
         img: ala,
         description: "Ala-Archa is a state natural park of Kyrgyzstan, located about 40 km from Bishkek. It occupies the northern slopes of the Kyrgyz ridge and stretches to the Ala-Archinsky gorge.",
@@ -262,6 +267,7 @@ export const Places = [
         bgImg2: jetiBg2,
         tourism: "Son-Kul is a potential object of ecological tourism. The nearest large settlement is a small village of Seagulls",
         tourismImg: arshanBg3,
+        bgImg4: Arashan4,
         tourism2: "Another reason for tourists' love for this place is the Aksu Wall, which is also called Palatka Peak, because of its unusual trapezoidal shape, which is very rare for the Tien Shan Mountains. The view of the wall has become a kind of visiting card of the gorge. Hiking enthusiasts will be particularly interested in walking to the foot of the peak, where there is a small glacial lake Kashka-Suu and several waterfalls: Sharkyratma, Kuldurek, Tash-Tektir, Archaly-Tor and Takyr-Tor.\n" +
             "The Altyn-Arashan gorge has a complex geographical relief, unlike other mountain gorges of the northern Tien Shan. In its lower part, Altyn-Arashan is a narrow canyon with a large degree of elevation, and a stormy river that can flood the road in summer. In the upper part, the gorge significantly expands and becomes a kind of high-altitude valley, with a very smooth elevation difference. Upstream of the river, the gorge divides, forming two arms that encircle the Aksu Wall on the right and left sides.\n" +
             "There are a huge number of tourist routes in Altyn-Arashan. This place is used as a base camp for radial exits, as a transshipment point on the way to Ala-Kul, Ak-Suu gorge or Karakol Valley and Jety-Oguz. It is also a wonderful place to relax among the untouched nature of the Tien Shan.",
@@ -278,7 +284,7 @@ export const Places = [
         photos: [arshanPhoto, arshanPhoto2, arshanPhoto3, arshanPhoto4, arshanPhoto5]
     },
     {
-        id: uniqid(),
+        id: 5,
         title: "Caravanserai Tash-Rabat",
         img: tashrabat,
         description: "Tash-Rabat (also Tashrabat) is an ancient caravanserai located on the territory of Naryn region, located near the border with China, one of the key parts of the ancient Great Silk Road.",
@@ -303,7 +309,7 @@ export const Places = [
         photos: [arshanPhoto, arshanPhoto2, arshanPhoto3, arshanPhoto4, arshanPhoto5]
     },
     {
-        id: uniqid(),
+        id: 6,
         title: "Burana Tower",
         img: burana,
         description: "Burana Tower, located 80 kilometers from Bishkek, is one of the most famous archaeological monuments of Kyrgyzstan.",
@@ -312,6 +318,8 @@ export const Places = [
         bgImg2: jetiBg2,
         tourism: "Son-Kul is a potential object of ecological tourism. The nearest large settlement is a small village of Seagulls",
         tourismImg: arshanBg3,
+        bgImg4: Arashan4,
+
         tourism2: "Another reason for tourists' love for this place is the Aksu Wall, which is also called Palatka Peak, because of its unusual trapezoidal shape, which is very rare for the Tien Shan Mountains. The view of the wall has become a kind of visiting card of the gorge. Hiking enthusiasts will be particularly interested in walking to the foot of the peak, where there is a small glacial lake Kashka-Suu and several waterfalls: Sharkyratma, Kuldurek, Tash-Tektir, Archaly-Tor and Takyr-Tor.\n" +
             "The Altyn-Arashan gorge has a complex geographical relief, unlike other mountain gorges of the northern Tien Shan. In its lower part, Altyn-Arashan is a narrow canyon with a large degree of elevation, and a stormy river that can flood the road in summer. In the upper part, the gorge significantly expands and becomes a kind of high-altitude valley, with a very smooth elevation difference. Upstream of the river, the gorge divides, forming two arms that encircle the Aksu Wall on the right and left sides.\n" +
             "There are a huge number of tourist routes in Altyn-Arashan. This place is used as a base camp for radial exits, as a transshipment point on the way to Ala-Kul, Ak-Suu gorge or Karakol Valley and Jety-Oguz. It is also a wonderful place to relax among the untouched nature of the Tien Shan.",
@@ -328,7 +336,7 @@ export const Places = [
         photos: [arshanPhoto, arshanPhoto2, arshanPhoto3, arshanPhoto4, arshanPhoto5]
     },
     {
-        id: uniqid(),
+        id: 7,
         title: "Lakes of Sary-Chelek",
         img: saryChelek,
         description: "Sary-Chelek Lake is one of the most beautiful and picturesque high-altitude lakes of Central Asia, a bright attraction of the Chatkal Ridge (a spur of the Western Tien Shan).",
@@ -337,6 +345,7 @@ export const Places = [
         bgImg2: jetiBg2,
         tourism: "Son-Kul is a potential object of ecological tourism. The nearest large settlement is a small village of Seagulls",
         tourismImg: arshanBg3,
+        bgImg4: sonKulBg4,
         tourism2: "Another reason for tourists' love for this place is the Aksu Wall, which is also called Palatka Peak, because of its unusual trapezoidal shape, which is very rare for the Tien Shan Mountains. The view of the wall has become a kind of visiting card of the gorge. Hiking enthusiasts will be particularly interested in walking to the foot of the peak, where there is a small glacial lake Kashka-Suu and several waterfalls: Sharkyratma, Kuldurek, Tash-Tektir, Archaly-Tor and Takyr-Tor.\n" +
             "The Altyn-Arashan gorge has a complex geographical relief, unlike other mountain gorges of the northern Tien Shan. In its lower part, Altyn-Arashan is a narrow canyon with a large degree of elevation, and a stormy river that can flood the road in summer. In the upper part, the gorge significantly expands and becomes a kind of high-altitude valley, with a very smooth elevation difference. Upstream of the river, the gorge divides, forming two arms that encircle the Aksu Wall on the right and left sides.\n" +
             "There are a huge number of tourist routes in Altyn-Arashan. This place is used as a base camp for radial exits, as a transshipment point on the way to Ala-Kul, Ak-Suu gorge or Karakol Valley and Jety-Oguz. It is also a wonderful place to relax among the untouched nature of the Tien Shan.",
@@ -353,7 +362,7 @@ export const Places = [
         photos: [arshanPhoto, arshanPhoto2, arshanPhoto3, arshanPhoto4, arshanPhoto5]
     },
     {
-        id: uniqid(),
+        id: 8,
         title: "Ysyk-Kol Lakes",
         img: issykKol,
         description: "Issyk-Kul is one of the largest lakes that exist in the world. The natural attraction of Kyrgyzstan is called the precious pearl of Asia.",
@@ -362,6 +371,7 @@ export const Places = [
         bgImg2: jetiBg2,
         tourism: "Son-Kul is a potential object of ecological tourism. The nearest large settlement is a small village of Seagulls",
         tourismImg: arshanBg3,
+        bgImg4: Arashan4,
         tourism2: "Another reason for tourists' love for this place is the Aksu Wall, which is also called Palatka Peak, because of its unusual trapezoidal shape, which is very rare for the Tien Shan Mountains. The view of the wall has become a kind of visiting card of the gorge. Hiking enthusiasts will be particularly interested in walking to the foot of the peak, where there is a small glacial lake Kashka-Suu and several waterfalls: Sharkyratma, Kuldurek, Tash-Tektir, Archaly-Tor and Takyr-Tor.\n" +
             "The Altyn-Arashan gorge has a complex geographical relief, unlike other mountain gorges of the northern Tien Shan. In its lower part, Altyn-Arashan is a narrow canyon with a large degree of elevation, and a stormy river that can flood the road in summer. In the upper part, the gorge significantly expands and becomes a kind of high-altitude valley, with a very smooth elevation difference. Upstream of the river, the gorge divides, forming two arms that encircle the Aksu Wall on the right and left sides.\n" +
             "There are a huge number of tourist routes in Altyn-Arashan. This place is used as a base camp for radial exits, as a transshipment point on the way to Ala-Kul, Ak-Suu gorge or Karakol Valley and Jety-Oguz. It is also a wonderful place to relax among the untouched nature of the Tien Shan.",
@@ -378,7 +388,7 @@ export const Places = [
         photos: [arshanPhoto, arshanPhoto2, arshanPhoto3, arshanPhoto4, arshanPhoto5]
     },
     {
-        id: uniqid(),
+        id: 9,
         title: "Kel-Suu Lakes",
         img: kelsuu,
         description: "Lake Kel-Suu (Kel suu) is one of the most beautiful lakes in Kyrgyzstan. Kel-Suu is located in the Aksai valley of the Naryn region.",
@@ -387,6 +397,7 @@ export const Places = [
         bgImg2: jetiBg2,
         tourism: "Son-Kul is a potential object of ecological tourism. The nearest large settlement is a small village of Seagulls",
         tourismImg: arshanBg3,
+        bgImg4: sonKulBg4,
         tourism2: "Another reason for tourists' love for this place is the Aksu Wall, which is also called Palatka Peak, because of its unusual trapezoidal shape, which is very rare for the Tien Shan Mountains. The view of the wall has become a kind of visiting card of the gorge. Hiking enthusiasts will be particularly interested in walking to the foot of the peak, where there is a small glacial lake Kashka-Suu and several waterfalls: Sharkyratma, Kuldurek, Tash-Tektir, Archaly-Tor and Takyr-Tor.\n" +
             "The Altyn-Arashan gorge has a complex geographical relief, unlike other mountain gorges of the northern Tien Shan. In its lower part, Altyn-Arashan is a narrow canyon with a large degree of elevation, and a stormy river that can flood the road in summer. In the upper part, the gorge significantly expands and becomes a kind of high-altitude valley, with a very smooth elevation difference. Upstream of the river, the gorge divides, forming two arms that encircle the Aksu Wall on the right and left sides.\n" +
             "There are a huge number of tourist routes in Altyn-Arashan. This place is used as a base camp for radial exits, as a transshipment point on the way to Ala-Kul, Ak-Suu gorge or Karakol Valley and Jety-Oguz. It is also a wonderful place to relax among the untouched nature of the Tien Shan.",

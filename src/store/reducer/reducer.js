@@ -1,7 +1,8 @@
 const initialState = {
     popular:[],
     product: [],
-    cards:[]
+    cards:[],
+    hotelsCard: JSON.parse(localStorage.getItem("hotelsCard")) || [],
 };
 
 export const Reducer = (state = initialState, action) => {
@@ -13,6 +14,9 @@ export const Reducer = (state = initialState, action) => {
         case "GET_CARDS":
             const found = state.popular.find((el) => el.id === action.payload);
             return { ...state, cards:[ { ...found}]};
+        case "GET_HOTELS":
+            const foundHotel = state.product.find((el) => el.id === action.payload);
+            return { ...state, hotelsCard: [{ ...foundHotel}] };
         default:
             return state;
     }

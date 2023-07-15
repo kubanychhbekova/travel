@@ -7,6 +7,7 @@ const Hotels = () => {
         <div>
             <Hotel/>
             <HotelSearch/>
+
         </div>
     );
 };

@@ -3,7 +3,6 @@ const initialState = {
     product: [],
     cards:[],
     hotelsCard: JSON.parse(localStorage.getItem("hotelsCard")) || [],
-
 };
 
 export const Reducer = (state = initialState, action) => {

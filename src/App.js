@@ -7,6 +7,7 @@ import Hotels from "./components/hotels/hotels";
 import Detail from "./components/popular/popularDetails/detail";
 import HotelDetail from "./components/hotels/hotelDetail/hotelDetail";
 
+
 function App() {
     return (
         <div className="App">
